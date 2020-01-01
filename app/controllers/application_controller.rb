@@ -48,5 +48,4 @@ class ApplicationController < Sinatra::Base
     redirect "/articles"
   end
 
-
 end #class
